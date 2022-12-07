@@ -2,7 +2,7 @@
 ## CSE-241 Object Oriented Programming in C++ Assignments
 
 
-### Homework 1
+### [Homework 1](/[tree/main/HW1))
 Implementing basic Hex Game to play on terminal
 
 ### Homework 2
